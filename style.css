@@ -1,0 +1,49 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Georgia, serif;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+
+}
+
+.medsos{
+	padding: 5spx 0;
+	background-color: #E7C9DF;
+}
+.medsos ul li{
+	display : inline-block;
+	color :#581845;
+	margin-right: 30px;
+}
+.container{
+	width:80%;
+	margin:0 auto;
+	border:1px solid;
+}
+.container.after{
+	content:'';
+}
+header{
+	border:1px solid;
+
+}
+header h1{
+	border:1px solid;
+	float: left;
+	padding: 15px 0;
+	color:#E7C9DF;
+}
+header ul{
+	border: 1px solid;
+	float: right; 
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a{
+	padding: 25px 20px;
+	display: inline-block;
+}
